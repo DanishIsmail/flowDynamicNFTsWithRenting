@@ -1,0 +1,1 @@
+Detail about NFT Contract
