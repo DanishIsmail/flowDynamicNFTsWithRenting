@@ -1,0 +1,8 @@
+# Ignore the root directory
+.vscode
+~/.vscode-root
+node_modules/
+flowdb/
+flowdb
+flow.json
+package-lock.json
